@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<header>
+    <link rel="stylesheet" type="text/css" href="FreeGames.css">
+    </h1>
+    <style>
+   @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&family=East+Sea+Dokdo&display=swap');
+
+
+    </style>
+   </header>
+<body>
+    <h1 id="title">Where To Get Free Games For Pc?</h1>
+    <img class="gamesetup" src="https://www.ubp.com/files/live/sites/ubp/files/image/banner_newsroom/200124_Vignette_Web_Detail.jpg" alt="headset and controller">
+    
+<h2>
+    <nav id="navbar">
+         <u>Sites I use for games</u>
+            <br>
+<a class="nav-link" href="#epic_games">Epic Games</a>
+<br>
+<a class="nav-link" href="#steam">Steam</a>
+<br>
+<a class="nav-link" href="xbox_live">Xbox Live Gold</a>
+<br>
+<a class="nav-link" href="playstation">Playstation Live</a>
+<br>
+</nav>
+    <nav id="navbar">
+        <u>Sites I've found but dont use myself so use</u> 
+        <img id="sign" src="https://cdn8.bigcommerce.com/s-10c6f/images/stencil/1280x1280/products/1317/2316/Floor_Sign_Yield_Caution_Sign_Creative_Safety_Supply__92002.1386024365.jpg?c=2&imbypass=on" alt="caution sign"
+        width=10%>
+        
+     <br>
+<a class="nav-link" href="allgames">Allgamesatoz.com</a>
+<br>
+<a class="nav-link" href="megagames">Megagames.com</a>
+<br>
+<a class="nav-link" href="fullgames">Fullgames.sk</a>
+<br>
+<a class="nav-link" href="itch">Itch.io</a>
+<br>
+    </nav>     
+</h2>   
+<br>
+<br>
+<br>
+
+<!-- start site explination for ones i use -->
+</body>
+
+<body>
+    <h1 id="epic games"><u>Epic Games</u></h1>
+    <img id="epic games" src="https://static-assets-prod.epicgames.com/epic-store/static/webpack/25c285e020572b4f76b770d6cca272ec.png" alt="epic games"
+    height=50%
+    width= 89%>
+    <p> Epic Games is a great place to start. Not only is it home to the imfamous fortnite but they also give a free game every week and even though they arent always the best games, they will allow you to build up your game library, and before you ask
+        the games you get from epic games will stay yours so get them while their still avaliable.
+        So if your like me and dont really like spending money on games then Epic Games is surely for you. <br>
+        To find the free games you must log onto epic games and scroll down till you see the title free games there it will not only show you what games are currently free, but also games that will be coming free in the near future.
+    </p>
+    <h1 id="steam"><u> Steam</u></h1>
+    <img id="steam" src="https://cdn.vox-cdn.com/thumbor/nAN_mfhRhpXykgpVCM3gz_ZSZdU=/289x0:1711x800/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/55123047/steam_logo_art_2000.0.jpg" alt="steam"
+    height=50%
+    width=90%>
+
+
+
+
+
+
+
+
+
+
+</body>
