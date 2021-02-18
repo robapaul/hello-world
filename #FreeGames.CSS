@@ -1,6 +1,15 @@
 p {
-    font-size: 120%;
-
+    font-size: 200%;
+}
+u{
+    font-size: 150%;
 }
 #title{
-    font-family: 'East Sea Dokdo', cursive; }
+    font-size: 250%;
+}
+#safe{
+    font-size: 200%;
+}
+#unsafe{
+    font-size: 200%;
+}
